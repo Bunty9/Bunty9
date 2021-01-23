@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... building by portfolio and [Youtube](https://www.youtube.com/channel/UCsfVPa8HQlFLuvGcBmWRh_w) 🤘🏻
-- 🌱 I’m currently learning ... Electronics Enginneering 
+- 🌱 I’m currently learning ... JS , React , client side Js  
 - 👯 I’m looking to collaborate on ... Nodejs , React , Server Architecture
 - 🤔 I’m looking for help with ... Javascript
 - 📫 Email me on ... cbipin2000@gmail.com
