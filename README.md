@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-git-master.bunty9.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31vzbbfand52le5cdfoym4f2kdoi)
+[![Spotify](https://novatorem.bunty9.vercel.app/api/spotify)](https://open.spotify.com/user/31vzbbfand52le5cdfoym4f2kdoi)
 
 
 ###  How to reach me: 
