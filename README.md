@@ -6,20 +6,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Electronics Enginneering 
 - 👯 I’m looking to collaborate on ... Nodejs , React , Server Architecture
 - 🤔 I’m looking for help with ... Javascript
+- 📫 Email me on ... cbipin2000@gmail.com
 - 💬 Ask me about ... Open Source, Anime, Nodejs
 - 😄 Pronouns: ... he/him 🤷‍♂️
 - ⚡ Fun fact: ... i watch a lot of anime😅
 
-### 📫 How to reach me: 
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
+###  How to reach me: 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[email]: cbipin2000@gmail.com
-[twitter]: https://twitter.com/BipinC8
-[youtube]: https://www.youtube.com/channel/UCsfVPa8HQlFLuvGcBmWRh_w
+[twitter]: https://twitter.com/BipinC8/
+[youtube]: https://www.youtube.com/channel/UCsfVPa8HQlFLuvGcBmWRh_w/
 [instagram]: https://instagram.com/skatebored____/
 [linkedin]: https://www.linkedin.com/in/bipin-s-c/
 <br />
