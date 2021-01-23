@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him 🤷‍♂️
 - ⚡ Fun fact: ... i watch a lot of anime😅
 
+<br />
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://novatorem.bunty9.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31vzbbfand52le5cdfoym4f2kdoi)
+
 ###  How to reach me: 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
