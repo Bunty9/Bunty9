@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Nodejs , React , Server Architecture
 - 🤔 I’m looking for help with ... Javascript
 - 💬 Ask me about ... Open Source, Anime, Nodejs
-- 📫 How to reach me: email: cbipin2000@gmail.com , Instagram: skatebored____/
+- 📫 How to reach me: email: cbipin2000@gmail.com , Instagram: instagram.com/skatebored____/
 - 😄 Pronouns: ... he/him 🤷‍♂️
 - ⚡ Fun fact: ... i watch a lot of anime😅
 
