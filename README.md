@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCsfVPa8HQlFLuvGcBmWRh_w
 [instagram]: https://instagram.com/skatebored____/
 [linkedin]: https://www.linkedin.com/in/bipin-s-c/
-
+<br />
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
