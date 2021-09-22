@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on ... building by portfolio and [Youtube](https://www.youtube.com/channel/UCsfVPa8HQlFLuvGcBmWRh_w) 🤘🏻
+- 🌐 My Website ... [Bips](www.bips.guru)
+- 🔭 I’m currently working on ... Fullstact and python 🤘🏻
 - 🌱 I’m currently learning ... JS , React , client side Js  
 - 👯 I’m looking to collaborate on ... Nodejs , React , Server Architecture
 - 🤔 I’m looking for help with ... Javascript
