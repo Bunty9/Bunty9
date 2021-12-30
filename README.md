@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bunty9.vercel.app/api/spotify)](https://open.spotify.com/user/31vzbbfand52le5cdfoym4f2kdoi)
+[![Spotify](https://novatorem-bunty9.vercel.app/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31vzbbfand52le5cdfoym4f2kdoi)
 
 
 ###  How to reach me: 
