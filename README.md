@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌐 My Website ... [Bips](www.bips.guru) ⚡
+- 🌐 My Website ... [Bips](https://www.bips.guru/) ⚡
 - 🔭 I’m currently working on ... Fullstact and python 🤘🏻
 - 🌱 I’m currently learning ... JS , React , client side Js  
 - 👯 I’m looking to collaborate on ... Nodejs , React , Server Architecture
