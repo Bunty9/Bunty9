@@ -76,8 +76,8 @@ The clearest way I know to *actually* understand something is to build the thing
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bunty9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00d4ff&icon_color=5b21b6&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunty9&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00d4ff&bg_color=0d1117" />
+<img height="160" src="https://gh-stats-swart.vercel.app/api?username=Bunty9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=00d4ff&icon_color=5b21b6&bg_color=0d1117" />
+<img height="160" src="https://gh-stats-swart.vercel.app/api/top-langs/?username=Bunty9&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00d4ff&bg_color=0d1117" />
 
 <br/><br/>
 
