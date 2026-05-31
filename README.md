@@ -93,9 +93,9 @@ The clearest way I know to *actually* understand something is to build the thing
 
 > Not a wishlist — the next three things I'm actually working toward.
 
-`01` &nbsp; A merged PR into a tier-1 Rust/Ethereum codebase — **`reth`** or **`alloy`**.
-`02` &nbsp; A **Stylus** smart contract, written in Rust, live on Arbitrum.
-`03` &nbsp; Deeper into execution internals & zkVMs — **`revm`**, **`sp1`**.
+&nbsp;&nbsp;`01` &nbsp; A merged PR into a tier-1 Rust/Ethereum codebase — **`reth`** or **`alloy`**.<br/>
+&nbsp;&nbsp;`02` &nbsp; A **Stylus** smart contract, written in Rust, live on Arbitrum.<br/>
+&nbsp;&nbsp;`03` &nbsp; Deeper into execution internals & zkVMs — **`revm`**, **`sp1`**.
 
 ---
 
